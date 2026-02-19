@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+# Optionnel : si tu veux ignorer les données CSV
+# sql_project/data/

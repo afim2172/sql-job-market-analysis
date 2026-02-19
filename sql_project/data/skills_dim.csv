@@ -1,0 +1,19 @@
+skill_id,skills,type
+1,Python,Programming
+2,SQL,Programming
+3,R,Programming
+4,Java,Programming
+5,AWS,Cloud
+6,Azure,Cloud
+7,GCP,Cloud
+8,PostgreSQL,Database
+9,MySQL,Database
+10,Snowflake,Database
+11,Redshift,Database
+12,Tableau,Analyst Tool
+13,Power BI,Analyst Tool
+14,Looker,Analyst Tool
+15,Spark,Big Data
+16,Hadoop,Big Data
+17,Airflow,Big Data
+18,Kafka,Big Data

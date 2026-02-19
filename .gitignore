@@ -4,3 +4,6 @@ __pycache__/
 .DS_Store
 # Optionnel : si tu veux ignorer les données CSV
 # sql_project/data/
+
+# Ignorer le script de commit automatique (local seulement)
+auto_commit.bat
